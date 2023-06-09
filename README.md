@@ -9,7 +9,7 @@ In this repository, code can be found in relation to a project in which data dri
 
 ## Installation and usage
 
-All the code has been written in Google Colab so it can be simply copy pasted and run in a .ipynb file in Colab. 
+Most of the code has been written in Google Colab so it can be simply copy pasted and run in a .ipynb file in Colab. Some code, especially for creating virtual datasets, is written in Matlab. 
 
 ## Segments
 
