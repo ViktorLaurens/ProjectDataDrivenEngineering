@@ -2,14 +2,10 @@
 In this repository, code can be found in relation to a project in which data driven analysis techniques are used on datasets containing data about the motion of various pendula. The objective of this project is to explore the vast methods and strategies that data and optimization offer. For this project, a (simple) mechanical system is chosen as the subject of the analysis, namely: a single pendulum with viscous friction. The pendulum serves as a classic example in physics that allows us to explore and understand fundamental concepts such as gravity, oscillatory motion, and conservation of energy. Despite its simplicity, the pendulum exhibits a rich variety of behaviors. This subject was chosen because it is intuitive, possible to build ourselves and, under certain assumptions, analytic solutions to the problem exist. This allows us to link the results from the data-driven methods to the theory and to explore the advantages and limitations of both and how these relate to each other.
 
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
+- [Installation and usage](#installation)
+- [Segments](#segments)
 - [Documentation](#documentation)
 - [License](#license)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Contact](#contact)
 
 ## Installation and usage
 
